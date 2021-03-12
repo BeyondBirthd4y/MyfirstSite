@@ -1,0 +1,28 @@
+header{
+    background-color: rgb(187, 16, 16);
+    border-radius: 18px;
+    text-align: center;
+}
+body{
+    background-color: rgb(27, 27, 27);
+}
+footer{
+    color:white;
+    font: normal 12pt Verdana;
+    text-align: center;
+}
+
+#character{
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.322);
+    box-align: center;
+}
+
+img.Alucard {
+    margin-left:auto;
+    margin-right: auto;
+    display: block;
+}
